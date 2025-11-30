@@ -25,4 +25,3 @@ IPGEO_KEY=your_key
 
 ---
 
-If you want an even shorter one, tell me “shorter”.
