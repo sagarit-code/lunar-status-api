@@ -23,5 +23,4 @@ OPENCAGE_KEY=your_key
 IPGEO_KEY=your_key
 ```
 
----
 
