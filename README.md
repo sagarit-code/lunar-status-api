@@ -1,4 +1,4 @@
-🌙 Lunar Status API
+ Lunar Status API
 
 A small FastAPI service that returns **live lunar status** based on the user’s IP.
 Built for **SeismoTech** to show real-time reaction angle, direction, and moon horizon position.
